@@ -1,0 +1,12 @@
+{
+    "name": "temp25/heroku-adminer",
+    "authors": [
+        {
+            "name": "Gowtham Alaguraj",
+            "email": "gowtham25alaguraj@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7"
+    }
+}
