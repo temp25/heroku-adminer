@@ -1,0 +1,16 @@
+{
+  "name": "heroku-adminer",
+  "description": "Adminer for PHP with heroku button.",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [],
+  "buildpacks": [
+    {
+      "url": "heroku/php"
+    }
+  ]
+}
